@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Dwi Putra Pamungkas B.Sc</title>
+        <link>https://putraadp.github.io/Portfolio-Data/en/page/</link>
+        <description>Recent content in Pages on Dwi Putra Pamungkas B.Sc</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://putraadp.github.io/Portfolio-Data/en/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Archives</title>
+        <link>https://putraadp.github.io/Portfolio-Data/en/archives/</link>
+        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://putraadp.github.io/Portfolio-Data/en/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>https://putraadp.github.io/Portfolio-Data/en/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://putraadp.github.io/Portfolio-Data/en/about/</guid>
+        <description>&lt;figure&gt;&lt;img src=&#34;profile.jpg&#34; width=&#34;20%&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Hi! My name is Dwi Putra Pamungkas.&lt;/p&gt;
+&lt;p&gt;I am a Bachelor of Science (B.Sc) with a major in Physics from Brawijaya University who has an interest in a career in Data Science.
+With my educational background, especially in Computational Material Science and Engineering,
+I have excellent analytical skills, critical thinking, complex problem solving, and understanding of data very well.&lt;/p&gt;
+&lt;p&gt;During my studies, I was also active in participating in various coding boot camps, and I took the &lt;a class=&#34;link&#34; href=&#34;https://www.datacamp.com/certificate/DS0023579267457&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Data Science Professional&lt;/a&gt; with Python training and
+certification organized by &lt;a class=&#34;link&#34; href=&#34;https://www.datacamp.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Datacamp&lt;/a&gt;.&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&#34;https://www.datacamp.com/certificate/DS0023579267457&#34;&gt;&lt;img src=&#34;certificate.jpg&#34; width=&#34;50%&#34;/&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;and another several bootcamp too&lt;/p&gt;
+&lt;p&gt;With my experience and abilities, I want to have a career as a Data Scientist to be able to implement the knowledge I have.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Contact Me</title>
+        <link>https://putraadp.github.io/Portfolio-Data/en/contact-me/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://putraadp.github.io/Portfolio-Data/en/contact-me/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://putraadp.github.io/Portfolio-Data/en/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://putraadp.github.io/Portfolio-Data/en/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
