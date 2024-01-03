@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Dwi Putra Pamungkas B.Sc</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/categories/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/categories/</link>
         <description>Recent content in Categories on Dwi Putra Pamungkas B.Sc</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://putraadp.github.io/Portfolio-Data/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://putraadp.github.io/Portfolio_Data/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>News</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/categories/news/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/categories/news/</link>
         <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://putraadp.github.io/Portfolio-Data/en/categories/news/</guid>
-        <description>&lt;img src="https://putraadp.github.io/Portfolio-Data/en/categories/news/news.jpeg" alt="Featured image of post News" /&gt;</description>
+        <guid>https://putraadp.github.io/Portfolio_Data/en/categories/news/</guid>
+        <description>&lt;img src="https://putraadp.github.io/Portfolio_Data/en/categories/news/news.jpeg" alt="Featured image of post News" /&gt;</description>
         </item>
         <item>
         <title>Project</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/categories/project/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/categories/project/</link>
         <pubDate>Mon, 05 Sep 2022 10:58:08 +0000</pubDate>
         
-        <guid>https://putraadp.github.io/Portfolio-Data/en/categories/project/</guid>
-        <description>&lt;img src="https://putraadp.github.io/Portfolio-Data/en/categories/project/project.jpeg" alt="Featured image of post Project" /&gt;</description>
+        <guid>https://putraadp.github.io/Portfolio_Data/en/categories/project/</guid>
+        <description>&lt;img src="https://putraadp.github.io/Portfolio_Data/en/categories/project/project.jpeg" alt="Featured image of post Project" /&gt;</description>
         </item>
         
     </channel>

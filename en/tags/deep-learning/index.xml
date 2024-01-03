@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Deep Learning on Dwi Putra Pamungkas B.Sc</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/tags/deep-learning/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/tags/deep-learning/</link>
         <description>Recent content in Deep Learning on Dwi Putra Pamungkas B.Sc</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 05 Sep 2022 10:58:08 +0000</lastBuildDate><atom:link href="https://putraadp.github.io/Portfolio-Data/en/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 05 Sep 2022 10:58:08 +0000</lastBuildDate><atom:link href="https://putraadp.github.io/Portfolio_Data/en/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Risk and Return on Investment in The 10 Biggest Tech Companies in The World &amp; Predictions for The Future</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/</link>
         <pubDate>Mon, 05 Sep 2022 10:58:08 +0000</pubDate>
         
-        <guid>https://putraadp.github.io/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/</guid>
-        <description>&lt;img src="https://putraadp.github.io/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/invest.jpg" alt="Featured image of post Risk and Return on Investment in The 10 Biggest Tech Companies in The World &amp; Predictions for The Future" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+        <guid>https://putraadp.github.io/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/</guid>
+        <description>&lt;img src="https://putraadp.github.io/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/invest.jpg" alt="Featured image of post Risk and Return on Investment in The 10 Biggest Tech Companies in The World &amp; Predictions for The Future" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Evaluate the risk and return of 10 stocks of The World&amp;rsquo;s Biggest Technology Companies 5 years ago to date based on annual Sharpe Ratios.&lt;/li&gt;
 &lt;li&gt;Create a tool that functions to provide stock price predictions from companies that have the highest annual sharpe ratio evaluation results in previous evaluations.&lt;/li&gt;
@@ -45,10 +45,10 @@
 &lt;p&gt;For comparison, the S&amp;amp;P 500 is used as a benchmark here. &lt;br&gt;
 Then, the stock price dataset is taken from &lt;strong&gt;Yahoo! Finance&amp;rsquo;s API&lt;/strong&gt; via the yfinance package, here we will use stock prices from the &lt;em&gt;past 5 years&lt;/em&gt;.&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;Visualized into a graph&lt;/p&gt;   
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot0.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot0.png&#34;
 	width=&#34;1242&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot0_hu8d3d07bdc859a65025a07022032d7489_166988_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot0_hu8d3d07bdc859a65025a07022032d7489_166988_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot0_hu8d3d07bdc859a65025a07022032d7489_166988_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot0_hu8d3d07bdc859a65025a07022032d7489_166988_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -57,10 +57,10 @@ Then, the stock price dataset is taken from &lt;strong&gt;Yahoo! Finance&amp;rsq
 		data-flex-basis=&#34;662px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot.png&#34;
 	width=&#34;1242&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot_hu9effab0942588c20a5b621f1fb0b3cd4_63110_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot_hu9effab0942588c20a5b621f1fb0b3cd4_63110_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot_hu9effab0942588c20a5b621f1fb0b3cd4_63110_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot_hu9effab0942588c20a5b621f1fb0b3cd4_63110_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -71,10 +71,10 @@ Then, the stock price dataset is taken from &lt;strong&gt;Yahoo! Finance&amp;rsq
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;sharpe-ratio&#34;&gt;Sharpe Ratio&lt;/h2&gt;
 &lt;p align=&#34;center&#34;&gt;Annual Sharpe Ratio&lt;/p&gt;   
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot6.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot6.png&#34;
 	width=&#34;1242&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot6_hua6aac89d4ee7212257d208a742688c4e_42020_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot6_hua6aac89d4ee7212257d208a742688c4e_42020_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot6_hua6aac89d4ee7212257d208a742688c4e_42020_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot6_hua6aac89d4ee7212257d208a742688c4e_42020_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -89,10 +89,10 @@ So, if you want to buy some chips in the world&amp;rsquo;s technology Companies.
 &lt;p&gt;Because Microsoft has the highest sharpe ratio, it will be interesting if we can predict the stock price of Microsoft in the future. So, here I will create a machine learning model to predict stock prices from Microsoft. &lt;br&gt;
 Here stock price of Microsoft from 5 years later. &lt;em&gt;For interactive graph can be seen on this &lt;a class=&#34;link&#34; href=&#34;https://nbviewer.org/github/Underscore48/Stock_Evaluation_of_10_Big_Tech/blob/main/stock.ipynb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;link&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot7.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot7.png&#34;
 	width=&#34;1242&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot7_hu5e6600dfc9e0adbb7bfb08bb99954e35_117051_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot7_hu5e6600dfc9e0adbb7bfb08bb99954e35_117051_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot7_hu5e6600dfc9e0adbb7bfb08bb99954e35_117051_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot7_hu5e6600dfc9e0adbb7bfb08bb99954e35_117051_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -138,10 +138,10 @@ Here the summary of model :&lt;/p&gt;
 To get high prediction accuracy, model machine learning is trained using 1 batch data with 10 epoch. For 5 years dataset, it takes 5 minutes to complete tha training with loss around 0.0004, which is very nice.&lt;/p&gt;
 &lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;
 &lt;h3 id=&#34;prediction-price-on-5-years-stock-price&#34;&gt;Prediction Price on 5 years Stock price&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot8.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot8.png&#34;
 	width=&#34;1242&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot8_hu0b4d65eb4fce429fef6e4e934a909d76_64518_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot8_hu0b4d65eb4fce429fef6e4e934a909d76_64518_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot8_hu0b4d65eb4fce429fef6e4e934a909d76_64518_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot8_hu0b4d65eb4fce429fef6e4e934a909d76_64518_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -151,10 +151,10 @@ To get high prediction accuracy, model machine learning is trained using 1 batch
 	
 &gt;
 Zoom for better visualization:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot9.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot9.png&#34;
 	width=&#34;1242&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot9_hu5e912b1400131b0681378565055589ce_64809_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot9_hu5e912b1400131b0681378565055589ce_64809_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot9_hu5e912b1400131b0681378565055589ce_64809_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot9_hu5e912b1400131b0681378565055589ce_64809_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	

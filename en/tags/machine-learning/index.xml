@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Machine Learning on Dwi Putra Pamungkas B.Sc</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/tags/machine-learning/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/tags/machine-learning/</link>
         <description>Recent content in Machine Learning on Dwi Putra Pamungkas B.Sc</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 19 Jun 2022 10:58:08 +0000</lastBuildDate><atom:link href="https://putraadp.github.io/Portfolio-Data/en/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 19 Jun 2022 10:58:08 +0000</lastBuildDate><atom:link href="https://putraadp.github.io/Portfolio_Data/en/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Property Rental Price Prediction</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/p/property_rental_price_prediction/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/p/property_rental_price_prediction/</link>
         <pubDate>Sun, 19 Jun 2022 10:58:08 +0000</pubDate>
         
-        <guid>https://putraadp.github.io/Portfolio-Data/en/p/property_rental_price_prediction/</guid>
-        <description>&lt;img src="https://putraadp.github.io/Portfolio-Data/en/p/property_rental_price_prediction/rentals.jpg" alt="Featured image of post Property Rental Price Prediction" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+        <guid>https://putraadp.github.io/Portfolio_Data/en/p/property_rental_price_prediction/</guid>
+        <description>&lt;img src="https://putraadp.github.io/Portfolio_Data/en/p/property_rental_price_prediction/rentals.jpg" alt="Featured image of post Property Rental Price Prediction" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Create a tool that functions to provide rental price predictions for various properties based on the features possessed by the property.&lt;/li&gt;
 &lt;li&gt;Machine learning regression model is used to predict property rental rates.&lt;/li&gt;
@@ -33,10 +33,10 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;data-comparation&#34;&gt;Data Comparation&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Before resolve anomaly&lt;/em&gt;
-&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output1.png&#34;
+&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output1.png&#34;
 	width=&#34;1449&#34;
 	height=&#34;1411&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output1_hudb24733acfbe45aa8c66feeed4d5ee90_367744_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output1_hudb24733acfbe45aa8c66feeed4d5ee90_367744_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output1_hudb24733acfbe45aa8c66feeed4d5ee90_367744_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output1_hudb24733acfbe45aa8c66feeed4d5ee90_367744_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image 1&#34;
@@ -48,10 +48,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;After resolve anomaly&lt;/em&gt;
-&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output2.png&#34;
+&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output2.png&#34;
 	width=&#34;2009&#34;
 	height=&#34;1960&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output2_hu9bf77b5ae22459cb1d8ea3a86d82e47d_646323_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output2_hu9bf77b5ae22459cb1d8ea3a86d82e47d_646323_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output2_hu9bf77b5ae22459cb1d8ea3a86d82e47d_646323_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output2_hu9bf77b5ae22459cb1d8ea3a86d82e47d_646323_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image 2&#34;
@@ -63,10 +63,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;property-location&#34;&gt;Property Location&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/newplot.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/newplot.png&#34;
 	width=&#34;721&#34;
 	height=&#34;600&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/newplot_hu1dcf59fbc82d1d3edcd4f950515da515_834902_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/newplot_hu1dcf59fbc82d1d3edcd4f950515da515_834902_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/newplot_hu1dcf59fbc82d1d3edcd4f950515da515_834902_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/newplot_hu1dcf59fbc82d1d3edcd4f950515da515_834902_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Color represents rental price.&#34;
@@ -80,10 +80,10 @@
 &lt;h2 id=&#34;data-engineering&#34;&gt;Data Engineering&lt;/h2&gt;
 &lt;p&gt;From property location we can calculate the distance of property location to downtown. So, i add new feature &amp;lsquo;distance&amp;rsquo;.
 Here the heat map of linear correlations&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output3.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output3.png&#34;
 	width=&#34;628&#34;
 	height=&#34;520&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output3_hu53aea4a8aa745118c06ccc8ce2218d4d_82615_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output3_hu53aea4a8aa745118c06ccc8ce2218d4d_82615_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output3_hu53aea4a8aa745118c06ccc8ce2218d4d_82615_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output3_hu53aea4a8aa745118c06ccc8ce2218d4d_82615_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Heatmap correlations&#34;
@@ -172,10 +172,10 @@ and with optimization get results:&lt;/p&gt;
 &lt;/table&gt;
 &lt;h2 id=&#34;eda&#34;&gt;EDA&lt;/h2&gt;
 &lt;p&gt;Feature importance&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output4.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output4.png&#34;
 	width=&#34;660&#34;
 	height=&#34;455&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output4_hudeec7879556328bc3a2199ec7e9cc430_23455_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output4_hudeec7879556328bc3a2199ec7e9cc430_23455_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output4_hudeec7879556328bc3a2199ec7e9cc430_23455_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output4_hudeec7879556328bc3a2199ec7e9cc430_23455_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -186,10 +186,10 @@ and with optimization get results:&lt;/p&gt;
 &gt;&lt;/p&gt;
 &lt;p&gt;Here we can see that the high and low price of property rental is strongly influenced by the number of rooms and sligly influenced by property location.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;More rooms, more prices&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output5.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output5.png&#34;
 	width=&#34;1169&#34;
 	height=&#34;498&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output5_hu426a3da9f626362faec62149ee509bc3_74392_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output5_hu426a3da9f626362faec62149ee509bc3_74392_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output5_hu426a3da9f626362faec62149ee509bc3_74392_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output5_hu426a3da9f626362faec62149ee509bc3_74392_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -199,10 +199,10 @@ and with optimization get results:&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Distance? doesn&amp;rsquo;t really matter&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output6.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output6.png&#34;
 	width=&#34;581&#34;
 	height=&#34;455&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output6_huf7a42f2c2def204d807d09e8b2cc48aa_65223_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output6_huf7a42f2c2def204d807d09e8b2cc48aa_65223_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output6_huf7a42f2c2def204d807d09e8b2cc48aa_65223_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output6_huf7a42f2c2def204d807d09e8b2cc48aa_65223_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -213,10 +213,10 @@ and with optimization get results:&lt;/p&gt;
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;output-sample&#34;&gt;Output Sample&lt;/h2&gt;
 &lt;p&gt;Here, sample distribution of predict and actual price rent.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output7.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output7.png&#34;
 	width=&#34;580&#34;
 	height=&#34;413&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output7_hu5502669270293b5e0ab4c3931de01b8a_60615_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output7_hu5502669270293b5e0ab4c3931de01b8a_60615_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output7_hu5502669270293b5e0ab4c3931de01b8a_60615_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output7_hu5502669270293b5e0ab4c3931de01b8a_60615_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;x-axis is simplified&#34;
@@ -231,11 +231,11 @@ and with optimization get results:&lt;/p&gt;
         </item>
         <item>
         <title>Credit Card Transaction Validation</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/p/credit-card-transaction-validation/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/p/credit-card-transaction-validation/</link>
         <pubDate>Mon, 13 Jun 2022 10:58:00 +0000</pubDate>
         
-        <guid>https://putraadp.github.io/Portfolio-Data/en/p/credit-card-transaction-validation/</guid>
-        <description>&lt;img src="https://putraadp.github.io/Portfolio-Data/en/p/credit-card-transaction-validation/cover.png" alt="Featured image of post Credit Card Transaction Validation" /&gt;&lt;ul&gt;
+        <guid>https://putraadp.github.io/Portfolio_Data/en/p/credit-card-transaction-validation/</guid>
+        <description>&lt;img src="https://putraadp.github.io/Portfolio_Data/en/p/credit-card-transaction-validation/cover.png" alt="Featured image of post Credit Card Transaction Validation" /&gt;&lt;ul&gt;
 &lt;li&gt;Create a tool that has a function to evaluate and classify every credit card transaction submitted whether it is valid or fraudulent.&lt;/li&gt;
 &lt;li&gt;A tool made using Machine Learning with a 100% accuracy rate to avoid fraud and laundering that can harm Customers and Bank.&lt;/li&gt;
 &lt;li&gt;Using data sets published by &lt;a class=&#34;link&#34; href=&#34;https://archive.ics.uci.edu/ml/datasets/credit&amp;#43;approval&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;

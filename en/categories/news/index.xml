@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>News on Dwi Putra Pamungkas B.Sc</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/categories/news/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/categories/news/</link>
         <description>Recent content in News on Dwi Putra Pamungkas B.Sc</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://putraadp.github.io/Portfolio-Data/en/categories/news/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://putraadp.github.io/Portfolio_Data/en/categories/news/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>New Website Portfolio Announcement</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/p/new-portfolio/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/p/new-portfolio/</link>
         <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://putraadp.github.io/Portfolio-Data/en/p/new-portfolio/</guid>
-        <description>&lt;img src="https://putraadp.github.io/Portfolio-Data/en/p/new-portfolio/cover.jpg" alt="Featured image of post New Website Portfolio Announcement" /&gt;&lt;h2 id=&#34;welcome&#34;&gt;Welcome&lt;/h2&gt;
+        <guid>https://putraadp.github.io/Portfolio_Data/en/p/new-portfolio/</guid>
+        <description>&lt;img src="https://putraadp.github.io/Portfolio_Data/en/p/new-portfolio/cover.jpg" alt="Featured image of post New Website Portfolio Announcement" /&gt;&lt;h2 id=&#34;welcome&#34;&gt;Welcome&lt;/h2&gt;
 &lt;p&gt;My New Website Portfolio.&lt;/p&gt;
 &lt;p&gt;This is the latest web page I&amp;rsquo;ve created since my previous website underscore48.github.io (no longer accessible) was published on a github account using my undergraduate college email account. Because I have now graduated for approximately 1.5 years, it is time for the email account to be deleted by the campus so that my previous github account can no longer be accessed.&lt;/p&gt;
 &lt;p&gt;This is my latest github account, the entire repository from my previous account has also been transferred to this account, so it can still be accessed on this latest account. As well as the portfolio pages that I have will be accessible again on this website. Although during 2023 there were not many updates. However, hopefully with the presence of a website with a more attractive design this will create new, more interesting pages, which of course still discuss various matters related to data science and feature updates from this website.&lt;/p&gt;

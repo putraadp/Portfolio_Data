@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Dwi Putra Pamungkas B.Sc</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/</link>
         <description>Recent content on Dwi Putra Pamungkas B.Sc</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://putraadp.github.io/Portfolio-Data/en/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://putraadp.github.io/Portfolio_Data/en/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>New Website Portfolio Announcement</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/p/new-portfolio/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/p/new-portfolio/</link>
         <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://putraadp.github.io/Portfolio-Data/en/p/new-portfolio/</guid>
-        <description>&lt;img src="https://putraadp.github.io/Portfolio-Data/en/p/new-portfolio/cover.jpg" alt="Featured image of post New Website Portfolio Announcement" /&gt;&lt;h2 id=&#34;welcome&#34;&gt;Welcome&lt;/h2&gt;
+        <guid>https://putraadp.github.io/Portfolio_Data/en/p/new-portfolio/</guid>
+        <description>&lt;img src="https://putraadp.github.io/Portfolio_Data/en/p/new-portfolio/cover.jpg" alt="Featured image of post New Website Portfolio Announcement" /&gt;&lt;h2 id=&#34;welcome&#34;&gt;Welcome&lt;/h2&gt;
 &lt;p&gt;My New Website Portfolio.&lt;/p&gt;
 &lt;p&gt;This is the latest web page I&amp;rsquo;ve created since my previous website underscore48.github.io (no longer accessible) was published on a github account using my undergraduate college email account. Because I have now graduated for approximately 1.5 years, it is time for the email account to be deleted by the campus so that my previous github account can no longer be accessed.&lt;/p&gt;
 &lt;p&gt;This is my latest github account, the entire repository from my previous account has also been transferred to this account, so it can still be accessed on this latest account. As well as the portfolio pages that I have will be accessible again on this website. Although during 2023 there were not many updates. However, hopefully with the presence of a website with a more attractive design this will create new, more interesting pages, which of course still discuss various matters related to data science and feature updates from this website.&lt;/p&gt;
@@ -39,11 +39,11 @@
         </item>
         <item>
         <title>Risk and Return on Investment in The 10 Biggest Tech Companies in The World &amp; Predictions for The Future</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/</link>
         <pubDate>Mon, 05 Sep 2022 10:58:08 +0000</pubDate>
         
-        <guid>https://putraadp.github.io/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/</guid>
-        <description>&lt;img src="https://putraadp.github.io/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/invest.jpg" alt="Featured image of post Risk and Return on Investment in The 10 Biggest Tech Companies in The World &amp; Predictions for The Future" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+        <guid>https://putraadp.github.io/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/</guid>
+        <description>&lt;img src="https://putraadp.github.io/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/invest.jpg" alt="Featured image of post Risk and Return on Investment in The 10 Biggest Tech Companies in The World &amp; Predictions for The Future" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Evaluate the risk and return of 10 stocks of The World&amp;rsquo;s Biggest Technology Companies 5 years ago to date based on annual Sharpe Ratios.&lt;/li&gt;
 &lt;li&gt;Create a tool that functions to provide stock price predictions from companies that have the highest annual sharpe ratio evaluation results in previous evaluations.&lt;/li&gt;
@@ -76,10 +76,10 @@
 &lt;p&gt;For comparison, the S&amp;amp;P 500 is used as a benchmark here. &lt;br&gt;
 Then, the stock price dataset is taken from &lt;strong&gt;Yahoo! Finance&amp;rsquo;s API&lt;/strong&gt; via the yfinance package, here we will use stock prices from the &lt;em&gt;past 5 years&lt;/em&gt;.&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;Visualized into a graph&lt;/p&gt;   
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot0.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot0.png&#34;
 	width=&#34;1242&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot0_hu8d3d07bdc859a65025a07022032d7489_166988_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot0_hu8d3d07bdc859a65025a07022032d7489_166988_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot0_hu8d3d07bdc859a65025a07022032d7489_166988_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot0_hu8d3d07bdc859a65025a07022032d7489_166988_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -88,10 +88,10 @@ Then, the stock price dataset is taken from &lt;strong&gt;Yahoo! Finance&amp;rsq
 		data-flex-basis=&#34;662px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot.png&#34;
 	width=&#34;1242&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot_hu9effab0942588c20a5b621f1fb0b3cd4_63110_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot_hu9effab0942588c20a5b621f1fb0b3cd4_63110_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot_hu9effab0942588c20a5b621f1fb0b3cd4_63110_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot_hu9effab0942588c20a5b621f1fb0b3cd4_63110_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -102,10 +102,10 @@ Then, the stock price dataset is taken from &lt;strong&gt;Yahoo! Finance&amp;rsq
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;sharpe-ratio&#34;&gt;Sharpe Ratio&lt;/h2&gt;
 &lt;p align=&#34;center&#34;&gt;Annual Sharpe Ratio&lt;/p&gt;   
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot6.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot6.png&#34;
 	width=&#34;1242&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot6_hua6aac89d4ee7212257d208a742688c4e_42020_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot6_hua6aac89d4ee7212257d208a742688c4e_42020_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot6_hua6aac89d4ee7212257d208a742688c4e_42020_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot6_hua6aac89d4ee7212257d208a742688c4e_42020_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -120,10 +120,10 @@ So, if you want to buy some chips in the world&amp;rsquo;s technology Companies.
 &lt;p&gt;Because Microsoft has the highest sharpe ratio, it will be interesting if we can predict the stock price of Microsoft in the future. So, here I will create a machine learning model to predict stock prices from Microsoft. &lt;br&gt;
 Here stock price of Microsoft from 5 years later. &lt;em&gt;For interactive graph can be seen on this &lt;a class=&#34;link&#34; href=&#34;https://nbviewer.org/github/Underscore48/Stock_Evaluation_of_10_Big_Tech/blob/main/stock.ipynb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;link&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot7.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot7.png&#34;
 	width=&#34;1242&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot7_hu5e6600dfc9e0adbb7bfb08bb99954e35_117051_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot7_hu5e6600dfc9e0adbb7bfb08bb99954e35_117051_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot7_hu5e6600dfc9e0adbb7bfb08bb99954e35_117051_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot7_hu5e6600dfc9e0adbb7bfb08bb99954e35_117051_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -169,10 +169,10 @@ Here the summary of model :&lt;/p&gt;
 To get high prediction accuracy, model machine learning is trained using 1 batch data with 10 epoch. For 5 years dataset, it takes 5 minutes to complete tha training with loss around 0.0004, which is very nice.&lt;/p&gt;
 &lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;
 &lt;h3 id=&#34;prediction-price-on-5-years-stock-price&#34;&gt;Prediction Price on 5 years Stock price&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot8.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot8.png&#34;
 	width=&#34;1242&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot8_hu0b4d65eb4fce429fef6e4e934a909d76_64518_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot8_hu0b4d65eb4fce429fef6e4e934a909d76_64518_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot8_hu0b4d65eb4fce429fef6e4e934a909d76_64518_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot8_hu0b4d65eb4fce429fef6e4e934a909d76_64518_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -182,10 +182,10 @@ To get high prediction accuracy, model machine learning is trained using 1 batch
 	
 &gt;
 Zoom for better visualization:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot9.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot9.png&#34;
 	width=&#34;1242&#34;
 	height=&#34;450&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot9_hu5e912b1400131b0681378565055589ce_64809_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot9_hu5e912b1400131b0681378565055589ce_64809_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot9_hu5e912b1400131b0681378565055589ce_64809_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/risk-and-return-on-investment-in-the-10-biggest-tech-companies-in-the-world-predictions-for-the-future/newplot9_hu5e912b1400131b0681378565055589ce_64809_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -215,11 +215,11 @@ Zoom for better visualization:&lt;/p&gt;
         </item>
         <item>
         <title>Property Rental Price Prediction</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/p/property_rental_price_prediction/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/p/property_rental_price_prediction/</link>
         <pubDate>Sun, 19 Jun 2022 10:58:08 +0000</pubDate>
         
-        <guid>https://putraadp.github.io/Portfolio-Data/en/p/property_rental_price_prediction/</guid>
-        <description>&lt;img src="https://putraadp.github.io/Portfolio-Data/en/p/property_rental_price_prediction/rentals.jpg" alt="Featured image of post Property Rental Price Prediction" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+        <guid>https://putraadp.github.io/Portfolio_Data/en/p/property_rental_price_prediction/</guid>
+        <description>&lt;img src="https://putraadp.github.io/Portfolio_Data/en/p/property_rental_price_prediction/rentals.jpg" alt="Featured image of post Property Rental Price Prediction" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Create a tool that functions to provide rental price predictions for various properties based on the features possessed by the property.&lt;/li&gt;
 &lt;li&gt;Machine learning regression model is used to predict property rental rates.&lt;/li&gt;
@@ -240,10 +240,10 @@ Zoom for better visualization:&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;data-comparation&#34;&gt;Data Comparation&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Before resolve anomaly&lt;/em&gt;
-&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output1.png&#34;
+&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output1.png&#34;
 	width=&#34;1449&#34;
 	height=&#34;1411&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output1_hudb24733acfbe45aa8c66feeed4d5ee90_367744_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output1_hudb24733acfbe45aa8c66feeed4d5ee90_367744_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output1_hudb24733acfbe45aa8c66feeed4d5ee90_367744_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output1_hudb24733acfbe45aa8c66feeed4d5ee90_367744_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image 1&#34;
@@ -255,10 +255,10 @@ Zoom for better visualization:&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;After resolve anomaly&lt;/em&gt;
-&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output2.png&#34;
+&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output2.png&#34;
 	width=&#34;2009&#34;
 	height=&#34;1960&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output2_hu9bf77b5ae22459cb1d8ea3a86d82e47d_646323_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output2_hu9bf77b5ae22459cb1d8ea3a86d82e47d_646323_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output2_hu9bf77b5ae22459cb1d8ea3a86d82e47d_646323_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output2_hu9bf77b5ae22459cb1d8ea3a86d82e47d_646323_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image 2&#34;
@@ -270,10 +270,10 @@ Zoom for better visualization:&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;property-location&#34;&gt;Property Location&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/newplot.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/newplot.png&#34;
 	width=&#34;721&#34;
 	height=&#34;600&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/newplot_hu1dcf59fbc82d1d3edcd4f950515da515_834902_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/newplot_hu1dcf59fbc82d1d3edcd4f950515da515_834902_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/newplot_hu1dcf59fbc82d1d3edcd4f950515da515_834902_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/newplot_hu1dcf59fbc82d1d3edcd4f950515da515_834902_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Color represents rental price.&#34;
@@ -287,10 +287,10 @@ Zoom for better visualization:&lt;/p&gt;
 &lt;h2 id=&#34;data-engineering&#34;&gt;Data Engineering&lt;/h2&gt;
 &lt;p&gt;From property location we can calculate the distance of property location to downtown. So, i add new feature &amp;lsquo;distance&amp;rsquo;.
 Here the heat map of linear correlations&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output3.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output3.png&#34;
 	width=&#34;628&#34;
 	height=&#34;520&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output3_hu53aea4a8aa745118c06ccc8ce2218d4d_82615_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output3_hu53aea4a8aa745118c06ccc8ce2218d4d_82615_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output3_hu53aea4a8aa745118c06ccc8ce2218d4d_82615_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output3_hu53aea4a8aa745118c06ccc8ce2218d4d_82615_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Heatmap correlations&#34;
@@ -379,10 +379,10 @@ and with optimization get results:&lt;/p&gt;
 &lt;/table&gt;
 &lt;h2 id=&#34;eda&#34;&gt;EDA&lt;/h2&gt;
 &lt;p&gt;Feature importance&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output4.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output4.png&#34;
 	width=&#34;660&#34;
 	height=&#34;455&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output4_hudeec7879556328bc3a2199ec7e9cc430_23455_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output4_hudeec7879556328bc3a2199ec7e9cc430_23455_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output4_hudeec7879556328bc3a2199ec7e9cc430_23455_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output4_hudeec7879556328bc3a2199ec7e9cc430_23455_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -393,10 +393,10 @@ and with optimization get results:&lt;/p&gt;
 &gt;&lt;/p&gt;
 &lt;p&gt;Here we can see that the high and low price of property rental is strongly influenced by the number of rooms and sligly influenced by property location.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;More rooms, more prices&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output5.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output5.png&#34;
 	width=&#34;1169&#34;
 	height=&#34;498&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output5_hu426a3da9f626362faec62149ee509bc3_74392_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output5_hu426a3da9f626362faec62149ee509bc3_74392_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output5_hu426a3da9f626362faec62149ee509bc3_74392_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output5_hu426a3da9f626362faec62149ee509bc3_74392_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -406,10 +406,10 @@ and with optimization get results:&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Distance? doesn&amp;rsquo;t really matter&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output6.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output6.png&#34;
 	width=&#34;581&#34;
 	height=&#34;455&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output6_huf7a42f2c2def204d807d09e8b2cc48aa_65223_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output6_huf7a42f2c2def204d807d09e8b2cc48aa_65223_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output6_huf7a42f2c2def204d807d09e8b2cc48aa_65223_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output6_huf7a42f2c2def204d807d09e8b2cc48aa_65223_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -420,10 +420,10 @@ and with optimization get results:&lt;/p&gt;
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;output-sample&#34;&gt;Output Sample&lt;/h2&gt;
 &lt;p&gt;Here, sample distribution of predict and actual price rent.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output7.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output7.png&#34;
 	width=&#34;580&#34;
 	height=&#34;413&#34;
-	srcset=&#34;https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output7_hu5502669270293b5e0ab4c3931de01b8a_60615_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio-Data/Portfolio-Data/en/p/property_rental_price_prediction/output7_hu5502669270293b5e0ab4c3931de01b8a_60615_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output7_hu5502669270293b5e0ab4c3931de01b8a_60615_480x0_resize_box_3.png 480w, https://putraadp.github.io/Portfolio_Data/Portfolio_Data/en/p/property_rental_price_prediction/output7_hu5502669270293b5e0ab4c3931de01b8a_60615_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;x-axis is simplified&#34;
@@ -438,11 +438,11 @@ and with optimization get results:&lt;/p&gt;
         </item>
         <item>
         <title>Credit Card Transaction Validation</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/p/credit-card-transaction-validation/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/p/credit-card-transaction-validation/</link>
         <pubDate>Mon, 13 Jun 2022 10:58:00 +0000</pubDate>
         
-        <guid>https://putraadp.github.io/Portfolio-Data/en/p/credit-card-transaction-validation/</guid>
-        <description>&lt;img src="https://putraadp.github.io/Portfolio-Data/en/p/credit-card-transaction-validation/cover.png" alt="Featured image of post Credit Card Transaction Validation" /&gt;&lt;ul&gt;
+        <guid>https://putraadp.github.io/Portfolio_Data/en/p/credit-card-transaction-validation/</guid>
+        <description>&lt;img src="https://putraadp.github.io/Portfolio_Data/en/p/credit-card-transaction-validation/cover.png" alt="Featured image of post Credit Card Transaction Validation" /&gt;&lt;ul&gt;
 &lt;li&gt;Create a tool that has a function to evaluate and classify every credit card transaction submitted whether it is valid or fraudulent.&lt;/li&gt;
 &lt;li&gt;A tool made using Machine Learning with a 100% accuracy rate to avoid fraud and laundering that can harm Customers and Bank.&lt;/li&gt;
 &lt;li&gt;Using data sets published by &lt;a class=&#34;link&#34; href=&#34;https://archive.ics.uci.edu/ml/datasets/credit&amp;#43;approval&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -493,18 +493,18 @@ The dataset is ready to fit into the model.&lt;/li&gt;
         </item>
         <item>
         <title>Archives</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/archives/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/archives/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://putraadp.github.io/Portfolio-Data/en/archives/</guid>
+        <guid>https://putraadp.github.io/Portfolio_Data/en/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/about/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://putraadp.github.io/Portfolio-Data/en/about/</guid>
+        <guid>https://putraadp.github.io/Portfolio_Data/en/about/</guid>
         <description>&lt;figure&gt;&lt;img src=&#34;profile.jpg&#34; width=&#34;20%&#34;/&gt;
 &lt;/figure&gt;
 
@@ -525,18 +525,18 @@ certification organized by &lt;a class=&#34;link&#34; href=&#34;https://www.data
         </item>
         <item>
         <title>Contact Me</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/contact-me/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/contact-me/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://putraadp.github.io/Portfolio-Data/en/contact-me/</guid>
+        <guid>https://putraadp.github.io/Portfolio_Data/en/contact-me/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://putraadp.github.io/Portfolio-Data/en/search/</link>
+        <link>https://putraadp.github.io/Portfolio_Data/en/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://putraadp.github.io/Portfolio-Data/en/search/</guid>
+        <guid>https://putraadp.github.io/Portfolio_Data/en/search/</guid>
         <description></description>
         </item>
         
