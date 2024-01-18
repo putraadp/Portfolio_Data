@@ -6,7 +6,93 @@
         <description>Recent content on Dwi Putra Pamungkas B.Sc</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://putraadp.github.io/Portfolio_Data/en/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://putraadp.github.io/Portfolio_Data/en/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Exploring Jakarta&#39;s Public Transportation Landscape: A Data-Driven Analysis</title>
+        <link>https://putraadp.github.io/Portfolio_Data/en/p/exploring-jakartas-public-transportation-landscape-a-data-driven-analysis/</link>
+        <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://putraadp.github.io/Portfolio_Data/en/p/exploring-jakartas-public-transportation-landscape-a-data-driven-analysis/</guid>
+        <description>&lt;img src="https://putraadp.github.io/Portfolio_Data/en/p/exploring-jakartas-public-transportation-landscape-a-data-driven-analysis/cover.jpg" alt="Featured image of post Exploring Jakarta&#39;s Public Transportation Landscape: A Data-Driven Analysis" /&gt;&lt;p&gt;As the heartbeat of Indonesia, Jakarta pulses with energy, culture and commerce. Exploring this bustling metropolis requires an efficient and reliable public transportation system. In this exploration, we delve into the intricacies of Jakarta&amp;rsquo;s public transportation, with a focus on TransJakarta buses in 2021, the latest public data from DKI Jakarta Transportation Agency on January 2024!&lt;/p&gt;
+&lt;h2 id=&#34;understanding-transjakartas-impact&#34;&gt;Understanding TransJakarta&amp;rsquo;s Impact&lt;/h2&gt;
+&lt;p&gt;TransJakarta, Jakarta&amp;rsquo;s Bus Rapid Transit (BRT) system, stands as an important pillar of Jakarta&amp;rsquo;s transportation infrastructure. In 2021, TransJakarta plays a vital role in transporting millions of commuters across the city, acting as a lifeline for many daily activities.&lt;/p&gt;
+&lt;h2 id=&#34;insights-from-transjakarta-data&#34;&gt;Insights from TransJakarta Data&lt;/h2&gt;
+&lt;p&gt;To comprehend the dynamics of TransJakarta&amp;rsquo;s operations, I leveraged data from 2021 to create a comprehensive tableau dashboard.  This dashboard serves as a visual narrative that provides insights into key performance indicators, departure and destination routes, service frequency, and rough revenue estimation calculations.&lt;/p&gt;
+&lt;h2 id=&#34;explore-the-interactive-dashboard&#34;&gt;Explore the Interactive Dashboard&lt;/h2&gt;
+&lt;p&gt;Dive into the data and explore the trends shaping Jakarta&amp;rsquo;s public transportation landscape.
+&lt;div class=&#39;tableauPlaceholder&#39; id=&#39;viz1705508714091&#39; style=&#39;position: relative&#39;&gt;
+  &lt;noscript&gt;
+    &lt;a href=&#39;#&#39;&gt;
+      &lt;img alt=&#39; &#39;
+        src=&#39;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;Tr&amp;#47;Transjakartaon2021&amp;#47;Dashboard1&amp;#47;1_rss.png&#39;
+        style=&#39;border: none&#39; /&gt;
+    &lt;/a&gt;
+  &lt;/noscript&gt;
+  &lt;object class=&#39;tableauViz&#39;  style=&#39;display:none;&#39;&gt;
+    &lt;param name=&#39;host_url&#39; value=&#39;https%3A%2F%2Fpublic.tableau.com%2F&#39; /&gt;
+    &lt;param name=&#39;embed_code_version&#39; value=&#39;3&#39; /&gt;
+    &lt;param name=&#39;site_root&#39; value=&#39;&#39; /&gt;
+    &lt;param name=&#39;name&#39; value=&#39;Transjakartaon2021&amp;#47;Dashboard1&#39; /&gt;
+    &lt;param name=&#39;tabs&#39; value=&#39;no&#39; /&gt;
+    &lt;param name=&#39;toolbar&#39; value=&#39;yes&#39; /&gt;
+    &lt;param name=&#39;static_image&#39; 
+      value=&#39;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;Tr&amp;#47;Transjakartaon2021&amp;#47;Dashboard1&amp;#47;1.png&#39; /&gt;
+    &lt;param name=&#39;animate_transition&#39; value=&#39;yes&#39; /&gt;
+    &lt;param name=&#39;display_static_image&#39; value=&#39;yes&#39; /&gt;
+    &lt;param name=&#39;display_spinner&#39; value=&#39;yes&#39; /&gt;
+    &lt;param name=&#39;display_overlay&#39; value=&#39;yes&#39; /&gt;
+    &lt;param name=&#39;display_count&#39; value=&#39;yes&#39; /&gt;
+    &lt;param name=&#39;language&#39; value=&#39;en&#39; /&gt;
+  &lt;/object&gt;
+&lt;/div&gt;
+&lt;script type=&#39;text/javascript&#39;&gt;
+  var divElement = document.getElementById(&#39;viz1705508714091&#39;);
+  var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0];
+  vizElement.style.width=&#39;779px&#39;;vizElement.style.height=&#39;768px&#39;;
+  var scriptElement = document.createElement(&#39;script&#39;);
+  scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;;
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+&lt;/script&gt;
+&lt;/p&gt;
+&lt;p&gt;You can also visit my dashboard &lt;a class=&#34;link&#34; href=&#34;https://public.tableau.com/views/Transjakartaon2021/Dashboard1?:language=en-US&amp;amp;:display_count=n&amp;amp;:origin=viz_share_link&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;key-metrics&#34;&gt;Key Metrics:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Travel Patterns: Visualize the ebb and flow of passengers throughout the month to provide valuable insights into busy months and potential areas for service improvement.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Route Efficiency: Understanding the efficiency of various routes can give an idea of overall system optimization and help identify potential congestion and passenger queue buildup.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Popular Destinations: Mapping the most frequented stops and destinations will help in tailoring public transportation to the needs of the community.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;addressing-challenges-and-enhancing-services&#34;&gt;Addressing Challenges and Enhancing Services&lt;/h2&gt;
+&lt;p&gt;While TransJakarta has been a laudable initiative, the data analysis revealed several challenges that can be addressed for a more convenient travel experience:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Congestion Hotspots: The need to identify areas and travel routes that experience frequent traffic congestion allows for targeted strategies to mitigate congestion-related delay issues and improve overall system efficiency.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Service Optimization: Evaluating the performance of different routes can guide decisions in reallocating resources to optimize service frequency and coverage.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Technology Integration: Utilizing technology for real-time service updates and information can improve the overall passenger experience.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;advocating-for-a-smarter-future&#34;&gt;Advocating for a Smarter Future&lt;/h2&gt;
+&lt;p&gt;Armed with insights from this data-driven analysis, we can advocate for smarter public transportation policies and investments. Technology integration, data-driven decision-making, and proactive planning can take Jakarta&amp;rsquo;s public transportation system to the next level.&lt;/p&gt;
+&lt;h2 id=&#34;connect-with-me&#34;&gt;Connect with Me&lt;/h2&gt;
+&lt;p&gt;As we embark on this journey of data exploration, I invite you to connect with me. Share your thoughts, insights, and ideas on how we can collectively contribute to the evolution of Jakarta&amp;rsquo;s public transportation system. Let&amp;rsquo;s create a city where commuting is not just a necessity but a seamless and enjoyable experience.&lt;/p&gt;
+&lt;p&gt;Together, we can shape the future of Jakarta&amp;rsquo;s public transportation.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Photo by &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/@pradasg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ales Nesetril&lt;/a&gt; on &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/photos/a-city-bus-parked-next-to-a-bunch-of-bikes-PpCCoXLUsYo?utm_content=creditCopyText&amp;amp;utm_medium=referral&amp;amp;utm_source=unsplash&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
         <title>New Website Portfolio Announcement</title>
         <link>https://putraadp.github.io/Portfolio_Data/en/p/new-portfolio/</link>
         <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>

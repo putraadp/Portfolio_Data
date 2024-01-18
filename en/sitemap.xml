@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://putraadp.github.io/Portfolio_Data/en/p/new-portfolio/</loc>
-    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://putraadp.github.io/Portfolio_Data/en/</loc>
-    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://putraadp.github.io/Portfolio_Data/en/categories/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://putraadp.github.io/Portfolio_Data/en/tags/dashboard/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://putraadp.github.io/Portfolio_Data/en/p/exploring-jakartas-public-transportation-landscape-a-data-driven-analysis/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://putraadp.github.io/Portfolio_Data/en/tags/jakartatransportation/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://putraadp.github.io/Portfolio_Data/en/post/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://putraadp.github.io/Portfolio_Data/en/categories/project/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://putraadp.github.io/Portfolio_Data/en/tags/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://putraadp.github.io/Portfolio_Data/en/tags/urbanmobility/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://putraadp.github.io/Portfolio_Data/en/p/new-portfolio/</loc>
     <lastmod>2023-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://putraadp.github.io/Portfolio_Data/en/categories/news/</loc>
     <lastmod>2023-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://putraadp.github.io/Portfolio_Data/en/tags/portfolio-website/</loc>
-    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://putraadp.github.io/Portfolio_Data/en/post/</loc>
-    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://putraadp.github.io/Portfolio_Data/en/tags/</loc>
     <lastmod>2023-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://putraadp.github.io/Portfolio_Data/en/tags/deep-learning/</loc>
@@ -30,9 +45,6 @@
     <lastmod>2022-09-05T10:58:08+00:00</lastmod>
   </url><url>
     <loc>https://putraadp.github.io/Portfolio_Data/en/tags/prediction/</loc>
-    <lastmod>2022-09-05T10:58:08+00:00</lastmod>
-  </url><url>
-    <loc>https://putraadp.github.io/Portfolio_Data/en/categories/project/</loc>
     <lastmod>2022-09-05T10:58:08+00:00</lastmod>
   </url><url>
     <loc>https://putraadp.github.io/Portfolio_Data/en/tags/ratio/</loc>
