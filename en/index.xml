@@ -48,10 +48,27 @@
   var divElement = document.getElementById(&#39;viz1705508714091&#39;);
   var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0];
   vizElement.style.width=&#39;779px&#39;;vizElement.style.height=&#39;768px&#39;;
+  if ( divElement.offsetWidth &gt; 800 )
+  {
+    vizElement.style.width=&#39;100%&#39;;
+    vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;;
+  }
+  else if ( divElement.offsetWidth &gt; 500 )
+  {
+    vizElement.style.width=&#39;100%&#39;;
+    vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;;
+  }
+  else
+  {
+    vizElement.style.width=&#39;100%&#39;;
+    vizElement.style.height=&#39;1377px&#39;;
+  }
   var scriptElement = document.createElement(&#39;script&#39;);
   scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;;
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 &lt;/script&gt;
+
+
 &lt;/p&gt;
 &lt;p&gt;You can also visit my dashboard &lt;a class=&#34;link&#34; href=&#34;https://public.tableau.com/views/Transjakartaon2021/Dashboard1?:language=en-US&amp;amp;:display_count=n&amp;amp;:origin=viz_share_link&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -114,6 +131,8 @@
 &lt;li&gt;Search&lt;/li&gt;
 &lt;li&gt;Dark mode&lt;/li&gt;
 &lt;li&gt;Quick Filter&lt;/li&gt;
+&lt;li&gt;Tableau Interactive Dashboard (add 18 Jan 2024)&lt;/li&gt;
+&lt;li&gt;Visitor counter (add 22 Jan 2024)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;That&amp;rsquo;s all, thank you for coming.&lt;/p&gt;
 &lt;blockquote&gt;
